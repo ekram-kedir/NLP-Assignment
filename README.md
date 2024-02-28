@@ -1,4 +1,4 @@
-# NLP_Assignment_1
+# NLP-Assignment
 
 
 This GitHub repository contains an Amharic N-gram language model that performs various tasks. It begins by generating n-grams for different lengths and illustrates the results with sample prints. The code then calculates the probabilities of these n-grams based on how often they appear in the text, highlighting the top 10 most likely n-grams for each length. Additionally, the repository delves into computing the likelihood of specific sentences and generating random sentences using n-grams, providing insight into how changing n values impacts the output.
